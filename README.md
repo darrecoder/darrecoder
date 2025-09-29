@@ -1,10 +1,8 @@
 - 👋 Hi, I’m @darrecoder
-- 👀 I’m interested in projects and challenges
-- 🌱 I’m currently working on web development
-- 💞️ I’m looking to collaborate on individuals
-- 📫 How to reach me ...
+- 👀 I’m interested in website design projects
+- 🌱 I’m currently working on web design
 
-Updated as of March 5, 2023.
+Updated as of September 29, 2025 at 8:30 AM.
 
 <!---
 darrecoder/darrecoder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
